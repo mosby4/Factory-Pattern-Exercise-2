@@ -6,28 +6,28 @@ using System.Xml.Linq;
 
 namespace FactoryPatternExercise2
 {
-	public class ListDataAccess : IDataAccess 
+     public class ListDataAccess : IDataAccess 
 	{
 		public ListDataAccess()
 		{
 		}
         public static List<Product> products = new List<Product>()
         {
-            new Product() {Name =" sugar Mapel", price =600 },
-            new Product() { Name = "Weeping Willow", price = 450 },
-            new Product () {Name = "Ficus", price = 50 },
+            new Product() {name = "Two Person Glamping Tent", price =900 },
+            new Product() { name = " -45 Goose Down sleeping bag", price = 450 },
+            new Product () {name = "Universal National Parks Pass", price = 50 },
 
         };
         public List<Product> LoadData()
         {
             Console.WriteLine( "I am reading data from ListDataAccess.");
-            throw new NotImplementedException();
+            return products;
         }
 
         public void SaveData()
         {
-            Console.WriteLine("I am saving data from a {   } to the console.");
-            throw new NotImplementedException();
+            Console.WriteLine("I am saving data from a list to the console.");
+           
         }
     }
 }

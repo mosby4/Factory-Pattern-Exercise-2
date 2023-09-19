@@ -8,9 +8,9 @@ namespace FactoryPatternExercise2
 		}
         public static List<Product> products = new List<Product>()
         {
-            new Product() {Name =" sugar Mapel", price =600 },
-            new Product() { Name = "Weeping Willow", price = 450 },
-            new Product () {Name = "Ficus", price = 50 },
+            new Product() {name =" sugar Mapel", price =600 },
+            new Product() { name = "Weeping Willow", price = 450 },
+            new Product () {name = "Ficus", price = 50 },
         };
         public List<Product> LoadData()
         {

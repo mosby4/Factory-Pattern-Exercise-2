@@ -3,7 +3,7 @@ using System.Diagnostics;
 
 namespace FactoryPatternExercise2
 {
-	public static  class DataAccessFactory
+    public static class DataAccessFactory
 	{
 		
         public static IDataAccess GetDataAccessType(string databaseType)

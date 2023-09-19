@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             String userInput;
             bool correctInput;
@@ -21,8 +21,6 @@
             }
             while (!correctInput);
             Console.Clear();
-
-            
 
             IDataAccess customDatabase = DataAccessFactory.GetDataAccessType(userInput);
             Console.WriteLine($"{customDatabase}");
