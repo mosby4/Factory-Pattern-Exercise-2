@@ -1,0 +1,30 @@
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.deps.json
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.runtimeconfig.json
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/refint/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.genruntimeconfig.cache
+/Users/Rufus/Desktop/Devu Practice/Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/ref/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/refint/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.deps.json
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.runtimeconfig.json
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.genruntimeconfig.cache
+/Users/Rufus/Desktop/Devu Practice /Factory-Pattern-Exercise-2/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/ref/FactoryPatternExercise2.dll
