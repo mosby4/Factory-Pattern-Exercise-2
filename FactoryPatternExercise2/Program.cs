@@ -4,26 +4,30 @@
     {
         public static void Main(string[] args)
         {
-            String userInput;
-            bool correctInput;
-            do {
-                Console.Clear();
-                correctInput = true;
-                Console.WriteLine("Hello, What database would you like to work wiht: sql, mongo, list?");
+            string userInput;
+            bool response;
+            do
+            {
+                response = true;
+             Console.WriteLine("Hello, What database would you like to work wiht: sql, mongo, list?");
+             userInput = Console.ReadLine().ToLower();
 
-                userInput = Console.ReadLine();
-                if(userInput != "sql" && userInput != "mongo" && userInput != "list")
-                    {
-                     correctInput = false;
-                    Console.WriteLine("Input not accepted");
-                    Thread.Sleep(1000);
-                    }
+                if (userInput != "sql" && userInput != "mongo" && userInput != "list")
+                {
+                    response = false;
+                }
+            } while (!response);
+            
+             IDataAccess customDatabase = DataAccessFactory.GetDataAccessType(userInput);
+             var products = customDatabase.LoadData();
+            Console.WriteLine();
+            foreach (var item in products)
+            {
+                Console.WriteLine($"name:{item.name}, price: {item.price}");
             }
-            while (!correctInput);
-            Console.Clear();
-
-            IDataAccess customDatabase = DataAccessFactory.GetDataAccessType(userInput);
-            Console.WriteLine($"{customDatabase}");
+         Console.WriteLine();
+         customDatabase.SaveData();
+         Console.WriteLine();
         }
     }
 }

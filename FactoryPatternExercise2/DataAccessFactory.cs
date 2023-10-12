@@ -8,7 +8,7 @@ namespace FactoryPatternExercise2
 		
         public static IDataAccess GetDataAccessType(string databaseType)
 		{
-			switch (databaseType)
+			switch (databaseType.ToLower())
 			{
 				case "mongo":
 					return new MongoDataAccess();
